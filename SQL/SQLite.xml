@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE items>
+<items>
+    <row>
+       <name>tensorflow</name>
+       <owner>tensorflow</owner>
+       <language>C++</language>
+       <stargazers>196933</stargazers>
+       <forks>75945</forks>
+       <watchers>196933</watchers>
+       <open_issues>2861</open_issues>
+       <creation>2015-11-07 01:19:20+00:00</creation>
+       <updating>2026-08-08 17:16:20+00:00</updating>
+       <license>apache license 2.0</license>
+    </row>
+    <row>
+       <name>transformers</name>
+       <owner>huggingface</owner>
+       <language>Python</language>
+       <stargazers>163471</stargazers>
+       <forks>34143</forks>
+       <watchers>163471</watchers>
+       <open_issues>2359</open_issues>
+       <creation>2018-10-29 13:56:00+00:00</creation>
+       <updating>2026-08-08 17:36:18+00:00</updating>
+       <license>apache license 2.0</license>
+    </row>
+    <row>
+       <name>ml-for-beginners</name>
+       <owner>microsoft</owner>
+       <language>Python</language>
+       <stargazers>89156</stargazers>
+       <forks>21857</forks>
+       <watchers>89156</watchers>
+       <open_issues>8</open_issues>
+       <creation>2021-03-03 01:34:05+00:00</creation>
+       <updating>2026-08-08 17:24:30+00:00</updating>
+       <license>mit license</license>
+    </row>
+    <row>
+       <name>funnlp</name>
+       <owner>fighting41love</owner>
+       <language>Python</language>
+       <stargazers>82346</stargazers>
+       <forks>15271</forks>
+       <watchers>82346</watchers>
+       <open_issues>52</open_issues>
+       <creation>2018-08-21 11:20:39+00:00</creation>
+       <updating>2026-08-08 16:33:08+00:00</updating>
+       <license>other</license>
+    </row>
+    <row>
+       <name>awesome-machine-learning</name>
+       <owner>josephmisiti</owner>
+       <language>Python</language>
+       <stargazers>73953</stargazers>
+       <forks>15603</forks>
+       <watchers>73953</watchers>
+       <open_issues>22</open_issues>
+       <creation>2014-07-15 19:11:19+00:00</creation>
+       <updating>2026-08-08 17:40:50+00:00</updating>
+       <license>bsd 3-clause "new" or "revised" license</license>
+    </row>
+    <row>
+       <name>scikit-learn</name>
+       <owner>scikit-learn</owner>
+       <language>Python</language>
+       <stargazers>66949</stargazers>
+       <forks>27271</forks>
+       <watchers>66949</watchers>
+       <open_issues>2115</open_issues>
+       <creation>2010-08-17 09:43:38+00:00</creation>
+       <updating>2026-08-08 13:17:24+00:00</updating>
+       <license>apache license 2.0</license>
+    </row>
+    <row>
+       <name>gradio</name>
+       <owner>gradio-app</owner>
+       <language>Python</language>
+       <stargazers>43314</stargazers>
+       <forks>3571</forks>
+       <watchers>43314</watchers>
+       <open_issues>199</open_issues>
+       <creation>2018-12-19 08:24:04+00:00</creation>
+       <updating>2026-08-08 17:22:03+00:00</updating>
+       <license>mit license</license>
+    </row>
+    <row>
+       <name>c-plus-plus</name>
+       <owner>thealgorithms</owner>
+       <language>C++</language>
+       <stargazers>34563</stargazers>
+       <forks>7848</forks>
+       <watchers>34563</watchers>
+       <open_issues>38</open_issues>
+       <creation>2016-07-16 10:19:45+00:00</creation>
+       <updating>2026-08-08 05:30:37+00:00</updating>
+       <license>mit license</license>
+    </row>
+    <row>
+       <name>ml-from-scratch</name>
+       <owner>eriklindernoren</owner>
+       <language>Python</language>
+       <stargazers>32436</stargazers>
+       <forks>5427</forks>
+       <watchers>32436</watchers>
+       <open_issues>76</open_issues>
+       <creation>2017-02-05 12:11:23+00:00</creation>
+       <updating>2026-08-08 09:39:39+00:00</updating>
+       <license>creative commons attribution share alike 4.0 international</license>
+    </row>
+    <row>
+       <name>linkedin-skill-assessments-quizzes</name>
+       <owner>ebazhanov</owner>
+       <language>Python</language>
+       <stargazers>28808</stargazers>
+       <forks>12916</forks>
+       <watchers>28808</watchers>
+       <open_issues>21</open_issues>
+       <creation>2019-07-13 19:52:56+00:00</creation>
+       <updating>2026-08-08 16:17:11+00:00</updating>
+       <license>mit license</license>
+    </row>
+    <row>
+       <name>cs249r_book</name>
+       <owner>harvard-edge</owner>
+       <language>Python</language>
+       <stargazers>27829</stargazers>
+       <forks>3498</forks>
+       <watchers>27829</watchers>
+       <open_issues>32</open_issues>
+       <creation>2023-09-06 19:31:06+00:00</creation>
+       <updating>2026-08-08 17:25:07+00:00</updating>
+       <license>mit license</license>
+    </row>
+    <row>
+       <name>shap</name>
+       <owner>shap</owner>
+       <language>Python</language>
+       <stargazers>25679</stargazers>
+       <forks>3738</forks>
+       <watchers>25679</watchers>
+       <open_issues>1022</open_issues>
+       <creation>2016-11-22 19:17:08+00:00</creation>
+       <updating>2026-08-08 16:32:18+00:00</updating>
+       <license>apache license 2.0</license>
+    </row>
+    <row>
+       <name>homemade-machine-learning</name>
+       <owner>trekhleb</owner>
+       <language>Python</language>
+       <stargazers>24740</stargazers>
+       <forks>4191</forks>
+       <watchers>24740</watchers>
+       <open_issues>31</open_issues>
+       <creation>2018-11-01 04:34:19+00:00</creation>
+       <updating>2026-08-08 03:31:42+00:00</updating>
+       <license>creative commons attribution share alike 4.0 international</license>
+    </row>
+    <row>
+       <name>paddle</name>
+       <owner>paddlepaddle</owner>
+       <language>C++</language>
+       <stargazers>24044</stargazers>
+       <forks>6014</forks>
+       <watchers>24044</watchers>
+       <open_issues>1527</open_issues>
+       <creation>2016-08-15 06:59:08+00:00</creation>
+       <updating>2026-08-08 15:53:36+00:00</updating>
+       <license>gnu general public license v3.0</license>
+    </row>
+    <row>
+       <name>rasa</name>
+       <owner>rasahq</owner>
+       <language>Python</language>
+       <stargazers>21288</stargazers>
+       <forks>4915</forks>
+       <watchers>21288</watchers>
+       <open_issues>152</open_issues>
+       <creation>2016-10-14 12:27:49+00:00</creation>
+       <updating>2026-08-07 12:41:23+00:00</updating>
+       <license>mit license</license>
+    </row>
+    <row>
+       <name>onnx</name>
+       <owner>onnx</owner>
+       <language>Python</language>
+       <stargazers>21278</stargazers>
+       <forks>3986</forks>
+       <watchers>21278</watchers>
+       <open_issues>276</open_issues>
+       <creation>2017-09-07 04:53:45+00:00</creation>
+       <updating>2026-08-08 10:51:26+00:00</updating>
+       <license>gnu affero general public license v3.0</license>
+    </row>
+    <row>
+       <name>video2x</name>
+       <owner>k4yt3x</owner>
+       <language>C++</language>
+       <stargazers>20775</stargazers>
+       <forks>1802</forks>
+       <watchers>20775</watchers>
+       <open_issues>125</open_issues>
+       <creation>2018-02-24 16:34:41+00:00</creation>
+       <updating>2026-08-08 16:41:32+00:00</updating>
+       <license>mit license</license>
+    </row>
+    <row>
+       <name>machine-learning-for-trading</name>
+       <owner>stefan-jansen</owner>
+       <language>Python</language>
+       <stargazers>20347</stargazers>
+       <forks>5496</forks>
+       <watchers>20347</watchers>
+       <open_issues>7</open_issues>
+       <creation>2018-05-09 12:33:08+00:00</creation>
+       <updating>2026-08-08 17:03:36+00:00</updating>
+       <license>other</license>
+    </row>
+    <row>
+       <name>lightgbm</name>
+       <owner>lightgbm-org</owner>
+       <language>C++</language>
+       <stargazers>18673</stargazers>
+       <forks>4049</forks>
+       <watchers>18673</watchers>
+       <open_issues>512</open_issues>
+       <creation>2016-08-05 05:45:50+00:00</creation>
+       <updating>2026-08-08 14:59:33+00:00</updating>
+       <license>creative commons zero v1.0 universal</license>
+    </row>
+    <row>
+       <name>ml-engineering</name>
+       <owner>stas00</owner>
+       <language>Python</language>
+       <stargazers>18546</stargazers>
+       <forks>1192</forks>
+       <watchers>18546</watchers>
+       <open_issues>2</open_issues>
+       <creation>2020-09-02 19:23:01+00:00</creation>
+       <updating>2026-08-08 15:02:50+00:00</updating>
+       <license>apache license 2.0</license>
+    </row>
+    <row>
+       <name>ml-nlp</name>
+       <owner>nlp-love</owner>
+       <language>Python</language>
+       <stargazers>17786</stargazers>
+       <forks>4632</forks>
+       <watchers>17786</watchers>
+       <open_issues>36</open_issues>
+       <creation>2019-07-05 12:49:53+00:00</creation>
+       <updating>2026-08-07 03:00:26+00:00</updating>
+       <license>gnu general public license v3.0</license>
+    </row>
+    <row>
+       <name>brpc</name>
+       <owner>apache</owner>
+       <language>C++</language>
+       <stargazers>17576</stargazers>
+       <forks>4129</forks>
+       <watchers>17576</watchers>
+       <open_issues>468</open_issues>
+       <creation>2017-09-04 09:28:47+00:00</creation>
+       <updating>2026-08-07 17:20:50+00:00</updating>
+       <license>apache license 2.0</license>
+    </row>
+    <row>
+       <name>numpy-ml</name>
+       <owner>ddbourgin</owner>
+       <language>Python</language>
+       <stargazers>16336</stargazers>
+       <forks>3750</forks>
+       <watchers>16336</watchers>
+       <open_issues>48</open_issues>
+       <creation>2019-04-06 22:29:49+00:00</creation>
+       <updating>2026-08-08 07:27:28+00:00</updating>
+       <license>mit license</license>
+    </row>
+    <row>
+       <name>mml-book.github.io</name>
+       <owner>mml-book</owner>
+       <language>Python</language>
+       <stargazers>15851</stargazers>
+       <forks>2837</forks>
+       <watchers>15851</watchers>
+       <open_issues>197</open_issues>
+       <creation>2017-12-08 10:52:21+00:00</creation>
+       <updating>2026-08-08 15:23:10+00:00</updating>
+       <license>mit license</license>
+    </row>
+    <row>
+       <name>ggml</name>
+       <owner>ggml-org</owner>
+       <language>C++</language>
+       <stargazers>15130</stargazers>
+       <forks>1762</forks>
+       <watchers>15130</watchers>
+       <open_issues>348</open_issues>
+       <creation>2022-09-18 17:07:19+00:00</creation>
+       <updating>2026-08-08 17:29:05+00:00</updating>
+       <license>boost software license 1.0</license>
+    </row>
+    <row>
+       <name>imgaug</name>
+       <owner>aleju</owner>
+       <language>Python</language>
+       <stargazers>14738</stargazers>
+       <forks>2451</forks>
+       <watchers>14738</watchers>
+       <open_issues>312</open_issues>
+       <creation>2015-07-10 20:31:33+00:00</creation>
+       <updating>2026-08-07 05:42:04+00:00</updating>
+       <license>mit license</license>
+    </row>
+    <row>
+       <name>bullet3</name>
+       <owner>bulletphysics</owner>
+       <language>C++</language>
+       <stargazers>14666</stargazers>
+       <forks>3083</forks>
+       <watchers>14666</watchers>
+       <open_issues>422</open_issues>
+       <creation>2011-04-12 18:45:08+00:00</creation>
+       <updating>2026-08-08 14:58:25+00:00</updating>
+       <license>other</license>
+    </row>
+    <row>
+       <name>chatterbot</name>
+       <owner>gunthercox</owner>
+       <language>Python</language>
+       <stargazers>14507</stargazers>
+       <forks>4421</forks>
+       <watchers>14507</watchers>
+       <open_issues>73</open_issues>
+       <creation>2014-09-28 14:49:00+00:00</creation>
+       <updating>2026-08-07 18:16:48+00:00</updating>
+       <license>apache license 2.0</license>
+    </row>
+    <row>
+       <name>dlib</name>
+       <owner>davisking</owner>
+       <language>C++</language>
+       <stargazers>14434</stargazers>
+       <forks>3447</forks>
+       <watchers>14434</watchers>
+       <open_issues>42</open_issues>
+       <creation>2014-01-29 00:45:33+00:00</creation>
+       <updating>2026-08-07 18:29:05+00:00</updating>
+       <license>apache license 2.0</license>
+    </row>
+    <row>
+       <name>nni</name>
+       <owner>microsoft</owner>
+       <language>Python</language>
+       <stargazers>14365</stargazers>
+       <forks>1856</forks>
+       <watchers>14365</watchers>
+       <open_issues>415</open_issues>
+       <creation>2018-06-01 05:51:44+00:00</creation>
+       <updating>2026-08-08 04:08:47+00:00</updating>
+       <license>mit license</license>
+    </row>
+    <row>
+       <name>ivy</name>
+       <owner>unifyai</owner>
+       <language>Python</language>
+       <stargazers>14172</stargazers>
+       <forks>5470</forks>
+       <watchers>14172</watchers>
+       <open_issues>985</open_issues>
+       <creation>2021-01-19 08:37:25+00:00</creation>
+       <updating>2026-08-08 13:58:41+00:00</updating>
+       <license>bsd 2-clause "simplified" license</license>
+    </row>
+    <row>
+       <name>handson-ml3</name>
+       <owner>ageron</owner>
+       <language>Python</language>
+       <stargazers>13893</stargazers>
+       <forks>5233</forks>
+       <watchers>13893</watchers>
+       <open_issues>106</open_issues>
+       <creation>2022-02-19 09:43:22+00:00</creation>
+       <updating>2026-08-08 15:40:04+00:00</updating>
+       <license>apache license 2.0</license>
+    </row>
+    <row>
+       <name>machine-learning-zoomcamp</name>
+       <owner>datatalksclub</owner>
+       <language>Python</language>
+       <stargazers>13869</stargazers>
+       <forks>3085</forks>
+       <watchers>13869</watchers>
+       <open_issues>2</open_issues>
+       <creation>2020-04-17 04:29:23+00:00</creation>
+       <updating>2026-08-08 12:47:43+00:00</updating>
+       <license>creative commons attribution 4.0 international</license>
+    </row>
+    <row>
+       <name>tvm</name>
+       <owner>apache</owner>
+       <language>Python</language>
+       <stargazers>13660</stargazers>
+       <forks>3946</forks>
+       <watchers>13660</watchers>
+       <open_issues>211</open_issues>
+       <creation>2016-10-12 22:20:28+00:00</creation>
+       <updating>2026-08-08 12:27:37+00:00</updating>
+       <license>mit license</license>
+    </row>
+    <row>
+       <name>python-machine-learning-book</name>
+       <owner>rasbt</owner>
+       <language>Python</language>
+       <stargazers>12634</stargazers>
+       <forks>4377</forks>
+       <watchers>12634</watchers>
+       <open_issues>13</open_issues>
+       <creation>2015-08-07 20:39:29+00:00</creation>
+       <updating>2026-08-05 13:32:08+00:00</updating>
+       <license>mit license</license>
+    </row>
+    <row>
+       <name>cleanlab</name>
+       <owner>cleanlab</owner>
+       <language>Python</language>
+       <stargazers>11616</stargazers>
+       <forks>912</forks>
+       <watchers>11616</watchers>
+       <open_issues>113</open_issues>
+       <creation>2018-05-11 01:55:21+00:00</creation>
+       <updating>2026-08-07 16:15:33+00:00</updating>
+       <license>bsd 3-clause "new" or "revised" license</license>
+    </row>
+    <row>
+       <name>mlalgorithms</name>
+       <owner>rushter</owner>
+       <language>Python</language>
+       <stargazers>11161</stargazers>
+       <forks>1772</forks>
+       <watchers>11161</watchers>
+       <open_issues>10</open_issues>
+       <creation>2016-10-05 06:46:45+00:00</creation>
+       <updating>2026-08-08 08:31:06+00:00</updating>
+       <license>apache license 2.0</license>
+    </row>
+    <row>
+       <name>turicreate</name>
+       <owner>apple</owner>
+       <language>C++</language>
+       <stargazers>11161</stargazers>
+       <forks>1119</forks>
+       <watchers>11161</watchers>
+       <open_issues>522</open_issues>
+       <creation>2017-12-01 00:42:04+00:00</creation>
+       <updating>2026-07-27 07:12:29+00:00</updating>
+       <license>mit license</license>
+    </row>
+    <row>
+       <name>amazon-sagemaker-examples</name>
+       <owner>aws</owner>
+       <language>Python</language>
+       <stargazers>10980</stargazers>
+       <forks>6960</forks>
+       <watchers>10980</watchers>
+       <open_issues>849</open_issues>
+       <creation>2017-10-23 05:55:22+00:00</creation>
+       <updating>2026-08-08 07:40:15+00:00</updating>
+       <license>mit license</license>
+    </row>
+    <row>
+       <name>dolly</name>
+       <owner>databrickslabs</owner>
+       <language>Python</language>
+       <stargazers>10805</stargazers>
+       <forks>1142</forks>
+       <watchers>10805</watchers>
+       <open_issues>6</open_issues>
+       <creation>2023-03-24 16:15:53+00:00</creation>
+       <updating>2026-08-08 13:57:27+00:00</updating>
+       <license>mit license</license>
+    </row>
+    <row>
+       <name>doccano</name>
+       <owner>doccano</owner>
+       <language>Python</language>
+       <stargazers>10732</stargazers>
+       <forks>1828</forks>
+       <watchers>10732</watchers>
+       <open_issues>396</open_issues>
+       <creation>2018-05-09 06:10:05+00:00</creation>
+       <updating>2026-08-05 13:11:04+00:00</updating>
+       <license>apache license 2.0</license>
+    </row>
+    <row>
+       <name>mlcourse.ai</name>
+       <owner>yorko</owner>
+       <language>Python</language>
+       <stargazers>10686</stargazers>
+       <forks>5704</forks>
+       <watchers>10686</watchers>
+       <open_issues>4</open_issues>
+       <creation>2017-02-27 08:32:20+00:00</creation>
+       <updating>2026-08-08 06:27:44+00:00</updating>
+       <license>apache license 2.0</license>
+    </row>
+    <row>
+       <name>machine-learning</name>
+       <owner>jack-cherish</owner>
+       <language>Python</language>
+       <stargazers>10364</stargazers>
+       <forks>5074</forks>
+       <watchers>10364</watchers>
+       <open_issues>7</open_issues>
+       <creation>2017-03-25 07:32:37+00:00</creation>
+       <updating>2026-08-07 15:08:43+00:00</updating>
+       <license>mit license</license>
+    </row>
+    <row>
+       <name>machine-learning-notes</name>
+       <owner>roboticcam</owner>
+       <language>Python</language>
+       <stargazers>10301</stargazers>
+       <forks>1823</forks>
+       <watchers>10301</watchers>
+       <open_issues>28</open_issues>
+       <creation>2018-02-15 15:42:33+00:00</creation>
+       <updating>2026-08-08 15:20:08+00:00</updating>
+       <license>mit license</license>
+    </row>
+    <row>
+       <name>tpot</name>
+       <owner>epistasislab</owner>
+       <language>Python</language>
+       <stargazers>10050</stargazers>
+       <forks>1564</forks>
+       <watchers>10050</watchers>
+       <open_issues>310</open_issues>
+       <creation>2015-11-03 21:08:40+00:00</creation>
+       <updating>2026-08-07 16:37:33+00:00</updating>
+       <license>mit license</license>
+    </row>
+    <row>
+       <name>sktime</name>
+       <owner>sktime</owner>
+       <language>Python</language>
+       <stargazers>9904</stargazers>
+       <forks>2268</forks>
+       <watchers>9904</watchers>
+       <open_issues>2404</open_issues>
+       <creation>2018-11-06 15:08:24+00:00</creation>
+       <updating>2026-08-08 11:33:28+00:00</updating>
+       <license>mit license</license>
+    </row>
+    <row>
+       <name>stock-prediction-models</name>
+       <owner>huseinzol05</owner>
+       <language>Python</language>
+       <stargazers>9481</stargazers>
+       <forks>3051</forks>
+       <watchers>9481</watchers>
+       <open_issues>47</open_issues>
+       <creation>2017-12-18 10:49:59+00:00</creation>
+       <updating>2026-08-08 14:07:12+00:00</updating>
+       <license>bsd 3-clause "new" or "revised" license</license>
+    </row>
+    <row>
+       <name>catboost</name>
+       <owner>catboost</owner>
+       <language>C++</language>
+       <stargazers>9058</stargazers>
+       <forks>1317</forks>
+       <watchers>9058</watchers>
+       <open_issues>717</open_issues>
+       <creation>2017-07-18 05:29:04+00:00</creation>
+       <updating>2026-08-08 00:14:12+00:00</updating>
+       <license>apache license 2.0</license>
+    </row>
+</items>
